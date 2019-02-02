@@ -1,6 +1,6 @@
 // background page
 var parent = chrome.contextMenus.create({
-  "title": "Show pass",
+  "title": "Reveal Password",
   "id": "0",
   "contexts": ["all"]
 });
